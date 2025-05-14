@@ -1,6 +1,6 @@
-# R-W - CSS3
+# Red & White - CSS3
 
-This is my **R-W** project, focused on **CSS3** concepts and techniques.
+This is my **Red & White** project, focused on **CSS3** concepts and techniques.
 
 ## 🚀 Project Overview
 
